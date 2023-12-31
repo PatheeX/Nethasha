@@ -14,7 +14,7 @@ img {
 
 
 .name {
-      position: absolute;
+   position: absolute;
    display: flex;
    color: #FCFFFE;
    font-size: 30px;
