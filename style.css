@@ -14,14 +14,15 @@ img {
 
 
 .name {
-   position: absolute;
+      position: absolute;
    display: flex;
    color: #FCFFFE;
-   font-size: 35px;
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: 500;
    justify-content: right;
    margin-left: 30vw;
-   bottom: 20vh;
+   bottom: 15vh;
    z-index: 5;
 }
 
