@@ -1,0 +1,39 @@
+body {
+   background-color: #0C1F2D;
+   margin: 0;
+   padding: 0;
+
+ }
+
+img {
+   width: 100vw;
+   z-index: -4;
+   position: relative;
+
+}
+
+
+.name {
+   position: absolute;
+   display: flex;
+   color: #FCFFFE;
+   font-size: 35px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   justify-content: right;
+   margin-left: 30vw;
+   bottom: 20vh;
+   z-index: 5;
+}
+
+.Footer {
+   opacity: 0.8;
+   margin-top: 15px;
+   color: white;
+   right: 50px;
+   font-size: 12px;
+   left: auto;
+   display: flex;
+   justify-content: right;
+   align-items: center;
+   font-family: 'Courier New', Courier, monospace;
+}
